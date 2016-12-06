@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-twilio",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "LoopBack connector for Twilio",
   "main": "index.js",
   "homepage": "http://loopback.io",
@@ -18,7 +18,7 @@
     "mBaaS"
   ],
   "dependencies": {
-    "twilio": "^1.10.0"
+    "twilio": "^2.1.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -31,6 +31,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dashby3000/loopback-connector-twilio"
+    "url": "https://github.com/frangelico/loopback-connector-twilio"
   }
 }
